@@ -1,0 +1,15 @@
+.profile{
+    border-radius: 100px;
+}
+.first{
+    background-color: #c3d2e0;
+}
+.icon {
+    margin: 5px;
+}
+.icon-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

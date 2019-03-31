@@ -1,0 +1,87 @@
+{
+  "title": "Hello i am Mohsen Asghari !!!",
+  "subtitle": "hardWorker | open source Enthusiast | Engineer | Creator",
+  "links": {
+    "github": "https://github.com/mohsenAsghari1996",
+    "stackoverflow": "https://stackoverflow.com/story/mohsenasghari",
+    "linkedin": "https://www.linkedin.com/in/mohsen-asghari-40b79615a/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "my name is mohsen asghari and im 22 years old. i study electrical engineering . i like programming and i improve my self to be great programmer.learning react is one of my goals to achive."
+        },
+        {
+          "type":"p",
+          "content":"i'm always trying hard to be one of the best.I hope one day comes that i work in big company as a programmer."
+        },
+        {
+          "type":"p",
+          "content":"wish me Luck!!!"
+        }
+      ]
+    },
+    {
+      "title": "Skils",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "img/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/java.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/html5.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/css-3.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/bootstrap.png",
+            "title": "BootStrap"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/android.png",
+            "title": "Android"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/arduino.png",
+            "title": "Arduino"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "img/down.png",
+    "up": "img/up.png",
+    "changeTheme": "img/change.png"
+  }
+}

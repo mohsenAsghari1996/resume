@@ -1,0 +1,14 @@
+.third{
+    background-color: #c3c8cc;
+
+}
+
+.cards-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skillsTitle{
+    font-size: xx-large;
+}

@@ -1,0 +1,24 @@
+.navbar {
+    overflow: hidden;
+    background-color: #004080;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: right;
+    display: block;
+    color: #872f2f;
+    text-align: center;
+    padding: 7px 8px;
+    text-decoration: none;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+a:hover{
+    color: red;
+}
